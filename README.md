@@ -4,12 +4,9 @@
 
 ## 📸 Preview Aplikasi
 
-*(Tambahkan gambar screenshot aplikasi dari folder `previews` di bawah ini)*
-
 ![Login](previews/1.jpg)
 ![Dashboard](previews/2.jpg)
 ![Cashier](previews/3.jpg)
-*(Ganti nama file gambar sesuai dengan yang ada di folder previews)*
 
 ## 🚀 Fitur Utama
 
